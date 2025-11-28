@@ -1,0 +1,6 @@
+
+
+opencv-pyton,
+ultralytics ,
+pyserial    ,
+requests
